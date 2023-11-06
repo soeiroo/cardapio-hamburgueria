@@ -1,0 +1,9 @@
+git init -> inicializa um repositório git
+git add <file> -> adiciona na fase de staging
+git commit -a -m "comentario" -> dá um commit pra o repositorio local
+git checkout -b <nome> -> cria um branch local
+git checkout <nome existente> -> entra em um branch local
+git push -> envia o commit para o repositorio remoto
+git pull -> recebe os commit do repositorio remoto
+git status -> vê o status das alterações recentes locais
+git branch -> vê quais branchs estão sendo usadas
